@@ -3,8 +3,11 @@ body {
   margin: 0;
   padding: 0;
   border: 0;
-  background-color: red;
+  background-image: linear-gradient(#696969, #292929);
+  font-family: "Grape Nuts", cursive;
+  font-family: "Open Sans", sans-serif;
 }
+
 .divisorbase {
   background-color: aliceblue;
   width: 720px;
